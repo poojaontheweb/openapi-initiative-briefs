@@ -68,3 +68,4 @@ As a liaison between OAI and an industry standards group, you are the bridge. Yo
 ---
 
 *Prepared by the OAI Industry Standards SIG · Q1 2026*
+* Authors: Pooja Vijay Kumar, Sandeep Chakravartty*
