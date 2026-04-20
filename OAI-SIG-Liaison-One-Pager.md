@@ -3,13 +3,40 @@
 
 ---
 
+## Executive Summary
+
+Industry groups exist to create alignment. OpenAPI does the same thing — but for APIs. When an industry group aligns with the OpenAPI Specification, they give their members a shared language for describing digital services that the whole world can already read, use, and build on.
+
+This document is a consensus-building tool. Its goal: help SIG liaisons pitch OpenAPI to non-technical audiences — leadership, standards committees, partner organizations — and land three things:
+
+1. What OpenAPI is and what it does
+2. Why alignment benefits the industry group and its members
+3. What alignment actually asks of them (less than they think)
+
+---
+
 ## What is the OpenAPI Specification?
 
 The OpenAPI Specification (OAS) is the industry standard for describing HTTP APIs — a shared language that lets humans and machines understand what an API does without reading its source code.
 
-Think of it as a universal blueprint for APIs. When an industry standards group aligns with OpenAPI, they're not adopting new technology — they're joining a common framework that their members' developers, tools, and platforms already speak.
+Think of it as an **architectural blueprint for digital services**. Even if you're not the engineer pouring the concrete, the blueprint helps everyone understand what's being built and how different parts connect.
 
 **By the numbers:** 30,900+ GitHub stars · 9,200+ forks · Latest release: OAS 3.2 (Sept 2025) · Governed by the Linux Foundation
+
+---
+
+## The problem OpenAPI solves (for non-technical audiences)
+
+Most organizations have a hidden risk: **API knowledge is gate-kept by a small number of technical experts.** When those individuals leave, move roles, or get stretched thin — documentation suffers, integrations stall, and downstream users (including business teams, partners, and end customers) struggle to get answers.
+
+OpenAPI breaks that dependency. It turns institutional knowledge into a shared artifact anyone can read.
+
+| Without OpenAPI | With OpenAPI |
+|---|---|
+| API behavior lives in engineers' heads | API behavior is documented in a universal format |
+| Partners reverse-engineer integrations | Partners onboard in hours, not weeks |
+| New staff depend on tribal knowledge | New staff can self-serve from day one |
+| Compliance teams ask engineers for answers | Compliance teams can audit service definitions directly |
 
 ---
 
@@ -26,13 +53,26 @@ Think of it as a universal blueprint for APIs. When an industry standards group 
 
 ## The non-technical case for alignment
 
-**Interoperability = ecosystem growth.** When an industry group's API standard is expressed in OpenAPI, any developer in the world can onboard in hours instead of weeks. That means more integrations, more adoption, and more value for members.
+**1. A shared language across teams**
+OpenAPI acts like a common blueprint everyone can read. Business teams, product managers, and partners can understand what a service does without needing engineering knowledge — reducing misunderstandings between technical and non-technical stakeholders.
 
-**Reduce duplication of effort.** Industry groups spend significant resources writing API documentation, code samples, and integration guides. OpenAPI alignment means much of this can be auto-generated — freeing teams to focus on domain expertise, not API plumbing.
+**2. Faster partnerships and integrations**
+When organizations publish OpenAPI definitions, partners can quickly understand how to connect systems. This lowers the barrier for collaborations, ecosystem partnerships, and third-party innovation.
 
-**Future-proof your standard.** OpenAPI is maintained by a global community and evolves with the industry. Alignment means your standard inherits that momentum rather than maintaining it independently.
+**3. Greater transparency and trust**
+OpenAPI makes digital services more visible and understandable. Stakeholders can see what data flows where and what functions exist — improving internal trust and external credibility. *How does trust manifest? When a partner can read exactly what your API does and doesn't expose, that's trust built by design, not by relationship.*
 
-**Signal credibility.** OpenAPI is backed by Google, Microsoft, Salesforce, IBM, and hundreds of others. Alignment signals to your members that your API standard is enterprise-ready and globally interoperable.
+**4. Better governance and accountability**
+Leadership can more easily review what digital capabilities exist across the organization — supporting compliance, auditing, and risk management, and encouraging consistent standards across teams.
+
+**5. Ecosystem thinking**
+OpenAPI supports the idea that services can become building blocks for other innovations. This helps organizations shift from isolated tools to platform ecosystems, and positions the industry group as infrastructure — not just a standards body.
+
+**6. Future-proofs the standard**
+OpenAPI is maintained by a global community and evolves with the industry. Alignment means your standard inherits that momentum. It also signals to members that your API standard is enterprise-ready — backed by Google, Microsoft, Salesforce, IBM, and hundreds of others.
+
+**7. Supports responsible technology**
+Clear service definitions make it easier to examine how systems behave and what data they use — supporting transparency, oversight, and responsible technology practices.
 
 ---
 
@@ -56,6 +96,8 @@ As a liaison between OAI and an industry standards group, you are the bridge. Yo
 
 > *"What would it mean for your ecosystem if any developer could onboard to your API standard in an afternoon?"*
 
+> *"Right now, how many people in your organization truly understand what your APIs do? OpenAPI is how you change that number."*
+
 ---
 
 ## Resources
@@ -68,4 +110,4 @@ As a liaison between OAI and an industry standards group, you are the bridge. Yo
 ---
 
 *Prepared by the OAI Industry Standards SIG · Q1 2026*
-* Authors: Pooja Vijay Kumar, Sandeep Chakravartty*
+*Authors: Pooja Vijay Kumar, Sandeep Chakravartty*
